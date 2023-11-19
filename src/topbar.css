@@ -1,0 +1,53 @@
+body{
+  margin: 0px;
+  font-family: 'Raleway', sans-serif;
+}
+.topbar{
+  padding: 16px 78px;
+  background-color: #fff;
+  font-family: 'Raleway', sans-serif;
+  
+  width: 100%;
+}
+#icon{
+  margin: 2px 0px 0px 5px;
+  cursor: pointer;
+}
+.logo{
+  display: inline-block;
+  width: 130px;
+  font-size: 32px;
+  color: #0084ff;
+  margin: 0px 50px 0px 0px;
+  font-weight: 700;
+}
+.heading{
+  color: #000;
+  font-weight: 600;
+  margin: 0px 0px 16px 0px;
+}
+.filter{
+  font-size:14px;
+  margin-left: 8px;
+}
+.button{
+  border: 1px solid #0084ff;
+  color: #0084ff;
+  border-radius: 15px;
+  padding: 6px 14px;
+  width: auto;
+  margin: 5px;
+  cursor: pointer;
+  display: inline-block;
+}
+#catagories{
+
+  margin-bottom: 20px;
+  font-size: 16px;
+  padding-top: 16px;
+}
+.container{
+  width: 100%;
+  max-width: 990px;
+  margin: 0px auto 50px;
+}
